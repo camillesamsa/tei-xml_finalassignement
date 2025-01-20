@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="out/MyGenerated.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="out/MyGenerated.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Correspondance Jules Verne : Lettre 1</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Camille Samsa</authority>
+            <availability status="free">
+               <p>Usage libre pour étude et recherche</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>France</country>            
+                  <settlement>Nantes</settlement>
+                  <repository xml:lang="fr">Bibliothèque Municipale de Nantes. Centre d'études verniennes</repository>
+                  <idno>MJV B20</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <correspDesc>
+           <correspAction type="sent">
+              <persName>Jules Verne</persName>
+               <placeName>Inconnu</placeName>
+               <date when="1850">Mars 1850</date>
+           </correspAction>
+            </correspDesc>
+         </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+            <div>
+               <opener>
+                  <salute>Ma chère maman,</salute>
+               </opener>
+               <p>Je te rends mille grâces pour ta bonté, et<lb/> 
+                  ton secours pécuniaire m’est arrivé fort à<lb/>
+                  propos ! Donc remerciements perpétuels.</p>
+               <p>Certainement papa n’eut pas refusé de payer<lb/>
+                  ces visites de médecins, mais c’eut encore été<lb/>
+                  ramener la question sur mon entretien déjà<lb/>
+                  si coûteux, et tu sais combien cela  m’est<lb/>
+                  pénible ! J’ai été assez malade des entrailles,<lb/>
+                  et tous ces tracas entraient pour beaucoup<lb/>
+                  dans ma maladie ! Enfin je vais mieux !<lb/>
+                  Ma nouvelle seringue m’a été d’un<lb/>
+                  puissant secours ! Je ne connais qu’une<lb/>
+                  chose plus ennuyeuse que de prendre des<lb/>
+                  remèdes, c’est de les préparer !</p>
+               <p>Je n’ai ni emprunté à Henri, ni à ma<lb/>
+                  tante ; je t’ai promis, ma chère maman,<lb/>
+                  que je ne le ferais pas, et je tiendrai ma<lb/>
+                  promesse, quoi qu’il arrive :</p>
+               <p>Mr Paul était encore au lit samedi<lb/>
+                  dernier.</p>
+               <p>Je t’envoie cette lettre par l’intermédiaire<lb/>
+                  de bonne maman, mais je l’affranchis<lb/>
+                  et toute difficulté est aussi levée.</p>
+               <closer>
+                  <salute>Je te remercie bien et t’embrasse bien<lb/>
+                     ma chère maman, et travaillerai de<lb/>
+                     tout mon pouvoir à ne plus t’ennuyer <lb/>
+                     de semblables demandes. Je vous<lb/>
+                     embrasse bien tous !</salute><lb/>
+                  <signed>Ton fils qui t’aime<lb/>
+                  Jules Verne</signed>
+               </closer>
+            </div>
+         </body>
+   </text>
+</TEI>

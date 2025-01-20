@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="out/MyGenerated.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="out/MyGenerated.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Correspondance Jules Verne : Lettre 3</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Camille Samsa</authority>
+            <availability status="free">
+               <p>Usage libre pour étude et recherche</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>France</country>            
+                  <settlement>Nantes</settlement>
+                  <repository xml:lang="fr">Bibliothèque municipale de Nantes. Centre d'études verniennes</repository>
+                  <idno>MJV B272/26</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <correspDesc>
+           <correspAction type="sent">
+              <persName>Jules Verne</persName>
+               <placeName>Inconnu</placeName>
+               <date when="1850">Mars 1851</date>
+           </correspAction>
+            </correspDesc>
+         </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+            <div>
+               <opener>
+                  <salute>Mon cher papa,</salute>
+               </opener>
+               <p>je te réponds scientifiquement et mathématiquement<lb/>
+                  sur la question des meubles. Il semble que ce<lb/>
+                  soit une discussion parlementaire. Je prends la<lb/>
+                  parole.</p>
+               <p>J’ai longuement causé de tout cela avec mon<lb/>
+                  oncle  Chateaubourg qui t’en entretiendra à<lb/>
+                  <placeName>Nantes</placeName>.</p>
+               <p>On trouve des logements à 200FF j’en ai vu<lb/>
+                  situés dans le quartier que j’habite, ils sont<lb/>
+                  fort convenables par leur proximité des boulevards.<lb/>
+                  J’accorde qu’ils sont au premier, mais ce premier<lb/>
+                  qu’Hélie et Hénoch rencontreront un jour ! Mais<lb/>
+                  peu m’importe  de  demeurer haut, de loger au<lb/>
+                  cerveau, comme je l’ai dit dans <title>Quiridine</title>.</p>
+               <p>Ce n’est qu’une question de jambes. Aussi devra-<lb/>
+                  t'elle marcher vite. </p>
+               <p>J’écarterai de suite l’argument tiré de la<lb/>
+                  garde nationale. Je n’en serai pas, grace<lb/>
+                  à un certificat de mon médecin, chirurgien de<lb/>
+                  la dite garde !</p>
+               <p>Quant aux contributions mobilières et<lb/>
+                  personnelles, ce n’est rien du tout ; j’aurai<lb/>
+                  quelques sols à payer chaque mois.</p>
+               <p>Quant aux meubles :</p>
+               <p>tu penses, mon cher papa, que cela dépensera<lb/>
+                  500FF, tu te trompes de plus de 100FF, cela<lb/>
+                  n’ira pas à 400FF, j’en suis sûr.  Je suis<lb/>
+                  allé chez des marchands !</p>
+               <p>Des lits en fer ou en bois à 50FF<lb/>
+                  un sommier élastique et un matelas.<lb/>
+                  Voilà la couchette avec oreiller et traversin.</p>
+               <p>Maman me fournirait deux paires de<lb/>
+                  draps. Une douzaine de serviettes et<lb/>
+                  deux couvertures. Ce serait la chose du<lb/>
+                  monde la plus simple.</p>
+               <p>En fait de gros meubles, je n’ai plus<lb/>
+                  qu’une commode à acheter, et cela ne monte<lb/>
+                  pas haut. Je n’aurai pas de nombreuses<lb/>
+                  chambres à meubler, loin de là.</p>
+               <p>Il y aura dans ce changement un véritable<lb/>
+                  bien être, une économie incontestable. Ce<lb/>
+                  bois à brûler que je paie si cher parce que<lb/>
+                  faute de place, je ne puis l’acheter que<lb/>
+                  pour 80 livres ! Quand j’irai vous voir<lb/>
+                  à Nantes : je laisse toutes mes affaires<lb/>
+                  chez moi, et j’évite ces déménagements si<lb/>
+                  couteux et ces transports  de bagages si<lb/>
+                  excessifs en chemin de fer !</p>
+               <p>Quant à quitter Paris, mon cher papa,<lb/>
+                  tu sais toi-même qu’avec l’esprit tourné et<lb/>
+                  tendu comme je l’ai, je ne pourrais réussir<lb/>
+                  à autre chose ! Je n’ai jamais déclaré<lb/>
+                  ce qu’on a rapporté à ma tante Chateaubourg.<lb/>
+                  J’ai dit simplement que ce serait un grand<lb/>
+                  plaisir pour moi que de passer l’hiver à<lb/>
+                  Nantes, mais je ne puis et ne dois pas retourner<lb/>
+                  à ma ville sans y apporter un succès.</p>
+               <p>Ce succès, je l’aurai, je te le promets,<lb/>
+                  mon cher papa.</p>
+               <p>Quand à l’intérêt du prix des meubles je<lb/>
+                  le supporterai aisément, réparti sur<lb/>
+                  l’année entière ! Et puis ma position<lb/> 
+                  s’améliorera ! Si je n’en avais pas l’<lb/>
+                  assurance je serais un fou  d’agir ainsi !</p>
+               <p>Comme bien être,  ce changement sera<lb/>
+                  inappréciable. Je suis si mal dans ces<lb/>
+                  chambres garnies. On entend tout ce qui<lb/>
+                  se fait et se dit d’une chambre à l’autre !<lb/>
+                  Cet appartement meublé ressemblant à une<lb/>
+                  place publique.</p>
+               <p>Je désire beaucoup ton acquiescement mon<lb/>
+                  cher papa, et t’en serai fort reconnaissant.<lb/>
+                  Si ce changement eut été fait depuis mon<lb/>
+                  arrivée à <placeName>Paris</placeName>, il y a longtemps que<lb/>
+                  le prix de mes meubles aurait été regagné !<lb/>
+                  J’attends une réponse prompte et favorable,<lb/>
+                  à lui d’être en mesure de quitter ma chambre<lb/>
+                  en temps utile.</p>
+               <closer>
+                  <salute>Adieu mon cher papa, je vous embrasse<lb/>
+                     bien Louis maman et les petites filles.</salute>
+                  <signed>Ton fils respectueux,<lb/>
+                  Jules Verne</signed>
+               </closer>
+            </div>
+         </body>
+   </text>
+</TEI>

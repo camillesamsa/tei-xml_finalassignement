@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="out/MyGenerated.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="out/MyGenerated.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="fr">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Correspondance Jules Verne : Lettre 2</title>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Camille Samsa</authority>
+            <availability status="free">
+               <p>Usage libre pour étude et recherche</p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <country>France</country>            
+                  <settlement>Nantes</settlement>
+                  <repository xml:lang="fr">Bibliothèque municipale de Nantes. Centre d'études verniennes</repository>
+                  <idno>MJV B32</idno>
+               </msIdentifier>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <profileDesc>
+          <correspDesc>
+           <correspAction type="sent">
+              <persName>Jules Verne</persName>
+               <placeName>Inconnu</placeName>
+              <date when="1850">1853</date>
+           </correspAction>
+            </correspDesc>
+         </profileDesc>
+   </teiHeader>
+   <text>
+      <body>
+            <div>
+               <opener>
+                  <salute>Mon cher père,</salute>
+               </opener>
+               <p>Je reçois ta lettre et n’ai rien à y répondre<lb/>
+                  si ce n’est que dans le moniteur, il y a<lb/>
+                  trois jours, j’ai lu que le Cassini était<lb/>
+                  parti de <placeName>Kertch</placeName> pour <placeName>Messine</placeName> ; paul,<lb/>>
+                  d’après cela reviendrait donc en <placeName>France</placeName>.<lb/>
+                  En tout cas  il n’eut pas possible qu’on<lb/>
+                  ne reçoive pas progressivement une nouvelle<lb/>
+                  lettre de lui. </p>
+               <p>Ma foi par ce temps de gouvernement<lb/>
+                  qui court, le meilleur est encor de se<lb/>
+                  passer de lui, de ne point avoir de<lb/>
+                  services à lui demander, mais de<lb/>
+                  ne point lui rendre non plus. </p>
+               <p>Nous allons voir le parti que<lb/>
+                  prendra Paul ; en tout cas, il ne<lb/>
+                  peut qu’être heureux pour lui.<lb/>
+                  Mauduit,  beau frère d’Alfred<lb/>
+                  Hiquard, qui est employé dans les<lb/>
+                  bureaux ambulants des postes, et<lb/>
+                  qui se trouve tous les deux jours<lb/>
+                  à <placeName>Nantes</placeName> où à <placeName>Paris</placeName> va te porter<lb/>
+                  un manuscrit de ma part.</p>
+               <p>C’est celui des heureux du jour ; j’ai<lb/>
+                  eu hier un grand succès à une<lb/>
+                  lecture d’amis ; la pièce me paraît<lb/>
+                  justifier son titre, et à part en<lb/>
+                  core des négligences de style que<lb/>
+                  tu me signaleras, elle m’a l’air de<lb/>
+                  bien marcher ; elle est réduite à<lb/>
+                  des proportions intéressantes.</p>
+               <p>J’avoue que depuis un mois<lb/>
+                  que je l’ai reprise j’ai travaillé<lb/>
+                  dix heures par jour, comme un<lb/>
+                  cheval, sans sortir. </p>
+               <p>Les pages sont numérotées, il te<lb/>
+                  sera facile d’indiquer tes observations<lb/>
+                  dans ma lettre, car je découvrirai<lb/>
+                  que le manuscrit ne fut pas<lb/>
+                  abymé !</p>
+               <p>Donne cela à lire à M.<lb/>
+                  Colombel,  si tu veux, mais je<lb/>
+                  voudrais beaucoup de discrétion<lb/>
+                  à <placeName>Nantes</placeName> à ce sujet. </p>
+               <p>Il faut absolument que j’ai raison<lb/>
+                  de cela et de la joconde, et<lb/>
+                  j’emploierai tous les moyens<lb/>
+                  possibles ! Je serais sur d’un<lb/>
+                  succès avec une bonne interprétation<lb/>
+                  aussi, comme il s’agit de jouer<lb/>
+                  là dessus mon avenir littéraire, je<lb/>
+                  ne reculerai devant rien. </p>
+               <p>Je me porte de mieux en<lb/>
+                  mieux ! Je ne vis plus que<lb/>
+                  de salade et de pruneaux : c’est<lb/>
+                  tout au plus, si je mange de<lb/>
+                  la viande,  aussi j’ai presque<lb/>
+                  toujours faim, mais cela me<lb/>
+                  réussit.</p>
+               <p>Vos sautés doivent être<lb/>
+                  bonnes puisque vous n’en<lb/>
+                  parlez pas.</p>
+               <p>Paul craint avoir eut main<lb/>
+                  qu’au bout de deux ans, on<lb/>
+                  lui fasse les mêmes chicanes qu’<lb/>
+                  au bout d’un an, et qu’en<lb/>
+                  fin de compte, on ne veuille<lb/>
+                  pas recevoir les enseignes<lb/>
+                  auxiliaires, et il a peut-être<lb/>
+                  raison ; j’avoue qu’il y a<lb/>
+                  de quoi embêter l’homme le<lb/>
+                  plus résigné.</p>
+               <closer>
+                  <salute>Je t’embrasse, mon cher<lb/>
+                     père, et prie de lire et me<lb/>
+                     répondre vite ; je pense que<lb/>
+                     tu auras le manuscrit lundi.<lb/>
+                     J’embrasse maman, ces Demoiselles<lb/>
+                     et Marie, ce petit être qu’on ne<lb/>
+                     peut mettre à la raisons.</salute>
+                  <signed>Jules Verne</signed>
+               </closer>
+            </div>
+         </body>
+   </text>
+</TEI>
